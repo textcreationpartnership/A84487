@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wednesday the first of June, 1653. At the Councel of State at White-hall Whereas divers of the inhabitants of this Commonwealth did in the yeare 1642. and since issue forth considerable summes of money by way of adventure for lands forfeited in Ireland ...</title>
+            <author>England and Wales. Council of State.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84487</idno>
+            <idno type="STC">Wing E793C</idno>
+            <idno type="STC">Thomason E1062_1</idno>
+            <idno type="STC">ESTC R209602</idno>
+            <idno type="EEBO-CITATION">99897134</idno>
+            <idno type="PROQUEST">99897134</idno>
+            <idno type="VID">135072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2484:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wednesday the first of June, 1653. At the Councel of State at White-hall Whereas divers of the inhabitants of this Commonwealth did in the yeare 1642. and since issue forth considerable summes of money by way of adventure for lands forfeited in Ireland ...</title>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black Spread-Eagle, at the west-end of Pauls,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135072:1"/>
+            <pb n="1" facs="tcp:135072:1"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Wedneſday the firſt of</hi> June, 1653.</date>
+               </dateline>
+            </opener>
+            <head>AT THE Councel OF State AT WHITE-HALL.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers of the Inhabitants of this Common-wealth did in the yeare 1642. and ſince iſſue forth conſiderable ſummes of money by way of Adven<g ref="char:EOLhyphen"/>ture for Lands forfeited in <hi>Ireland</hi> (upon the late Rebellion) according to ſundry Acts and Ordinan<g ref="char:EOLhyphen"/>ces of Parliament granted in that behalf; in pur<g ref="char:EOLhyphen"/>ſuance whereof, and that every Adventurer may receive ſatisfaction by lot, where his Divident of Land ſhall be. It is therefore ordered by the Councell of State, That <hi>Methuſalah Turner</hi> of <hi>Cheapſide London</hi> Linnen-Draper, <hi>Robert Hammon</hi> of <hi>Broadſtreed London</hi> Merchant, <hi>Henry Brandriffe</hi> of <hi>Wallbrook Lon<g ref="char:EOLhyphen"/>don</hi> Merchant, <hi>Nathaniel Manton</hi> of <hi>Iron-monger lane London</hi> Merchant, <hi>Elias Roberts</hi> of <hi>Broadſtreet London</hi> Merchant, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Doctor <hi>Hubbard</hi> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Doctor of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Francis Blomer</hi> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Eſquire, Colonell <hi>George Gill,</hi> and Lieutenant Colonell <hi>Fenton,</hi> or any five or more of them be intruſt<g ref="char:EOLhyphen"/>ed, and are hereby Authorized to examine the truth of all mens claimes by comparing their Receipts and Aſſignments with the
+<pb n="2" facs="tcp:135072:2"/> Originall Books, and ſhall cauſe an Entry to be made in a Book fairly written and kept for that purpoſe, of all and every ſuch ſum and ſums of money (in words and not in figures) as ſhall be by them allowed; as alſo of the names as well of the firſt Adventurers, as of the perſon or perſons now claiming the ſame: And ſhall likewiſe cauſe a tranſcript of the ſaid Originall Books to be written, and therein make from time to time as they ſhall allow of any ſum a <hi>Me<g ref="char:EOLhyphen"/>morandum</hi> upon the ſum ſo by them allowed and there entered; that the ſame is allowed to the end the ſame may not be againe charg<g ref="char:EOLhyphen"/>ed. And the ſaid Committee, or any five or more of them after the claimes are cleared, ſhall contrive and appoint ſuch a method for the management of all mens lots as to their utmoſt skill ſhall be moſt free from all offence and juſt exception. And to the end all Adventures for Lands in <hi>Ireland</hi> may have knowledge, and take notice hereof; It is further Ordered, That in Grocers Hall <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> upon the twentieth day of <hi>July</hi> next enſuing, being in the yeare of our Lord 1653. by eight of the clock in the morning this Lottery ſhall begin. And the ſaid Committee, or any five or more of them are further Ordered to admit ſo many Adventurers to joyne in one and the ſame lot as ſhall deſire it. Provided no one lot exceed ten thouſand pounds, and no more lots for the Province of <hi>Munſter</hi> then ſhall amount unto one hundred and ten thouſand pounds. For the Province of <hi>Lemſter</hi> two hundred and five thouſand pounds. For the Province of <hi>Ulſter</hi> forty five thou<g ref="char:EOLhyphen"/>ſand pounds, accounting all monies as doubled brought in upon the Ordinances of the 14 of <hi>July</hi> 1643. and the 30 of <hi>November,</hi> 1647. to make up the ſaid ſums; and in the ſecond alotment for Counties, no one lot to exceed five thouſand pounds; and no more lots for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Waterford</hi> then ſhall amount unto twenty thouſand pounds. For the County of <hi>Limerick</hi> thirty thouſand pounds: For the Coun<g ref="char:EOLhyphen"/>ty of <hi>Tipperary</hi> threeſcore thouſand pounds: For the County of <hi>Eaſt<g ref="char:EOLhyphen"/>meath</hi> fifty and five thouſand pounds: For the County of <hi>Weſtmeath</hi> threeſcore and ten thouſand pounds: For the Kings County fourty thouſand pounds: For the Queens County fourty thouſand pounds: For the County of <hi>Antrim</hi> fifteen thouſand pounds: For the County of <hi>Down</hi> fifteen thouſand pounds: For the County of <hi>Armagh</hi> fifteen thouſand pounds: And after Alotment is ſo made, to aſcertain what quantity of Land is due to each of the ſaid Adventurers, according to the rates for the reſpective Provinces, mentioned in the Act of Par<g ref="char:EOLhyphen"/>liament in that behalf, and the meaſure allowed by the ſaid reſpective Acts and Ordinances, within which ſuch Adventurer comes: But for avoiding the inconveniences that may ariſe from obſerving <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> and <hi>Iriſh</hi> meaſure, in the ſurveying and ſetting forth of the ſaid lands, and that nevertheleſſe the Adventurers to whom it doth be<g ref="char:EOLhyphen"/>long, may have the benefit of Iriſh meaſure: It is Ordered, That for ſuch of the Adventurers as have a right thereunto, the ſaid Com<g ref="char:EOLhyphen"/>mittee ſhall compute and ſet down how many Acres <hi>Engliſh</hi> meaſure
+<pb n="3" facs="tcp:135072:2"/> ſuch Adventurers proportion in <hi>Iriſh</hi> meaſure doth amount unto: And ſhall accordingly give unto each of the ſaid Adventurers a Cer<g ref="char:EOLhyphen"/>tificate, what number of Acres (according to <hi>Engliſh</hi> meaſure) is due unto him, either by force of the ſaid Act, or in lieu and ſatisfaction of his proportion of Acres <hi>Iriſh</hi> meaſure, according to the ſaid for<g ref="char:EOLhyphen"/>mer Acts and Ordinances, which Certificate under the Hands and Seales of any five or more of the aforeſaid Committee, ſhall be a ſuf<g ref="char:EOLhyphen"/>ficient Warrant for every Adventurer receiving the ſame, to make his claim in <hi>Ireland?</hi> And the ſaid Committee ſhall cauſe an entry to be made in a Book for that purpoſe, of all and every Certificate and Certificates which they ſhall give to any perſon or perſons, expreſ<g ref="char:EOLhyphen"/>ſing the ſum in words and not in figures, the name of the firſt Ad<g ref="char:EOLhyphen"/>venturer, and of the perſon to whom ſuch Certificate ſhall be given, together with the proportion of lands due to him, as the ſame ſhall be contained in the ſaid Certificate: and ſhall cauſe a Tranſcript there<g ref="char:EOLhyphen"/>of in a Parchment-Roll to be made and tranſmitted into the Cham<g ref="char:EOLhyphen"/>ber of <hi>London,</hi> there to remain as a publike Record. Provided al<g ref="char:EOLhyphen"/>wayes, the right of Election for Provinces in the manner of Alot<g ref="char:EOLhyphen"/>ment, be preſerved unto ſuch as have, or ſhall claim the ſame upon the Ordinances of the fourteenth of <hi>July,</hi> 1643. And the thirtieth of <hi>November</hi> 1647. And it is further Ordered, That the ſaid Com<g ref="char:EOLhyphen"/>mittee be authorized to receive one penny upon the pound, of and for every Adventurer, for ſo much land as he ſhall be entituled or lay claim unto, towards the defraying of all incident charges here for carrying on this ſervice.</p>
+            <closer>
+               <signed>
+                  <hi>Ex: <hi>Jo: Thurloe,</hi> Secr.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the <hi>Black Spread-Eagle,</hi> at the Weſt-End of <hi>Pauls. 1653.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
